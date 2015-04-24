@@ -6,7 +6,11 @@
   "dependencies": {
     "kue": "^0.8.12"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1",
+    "sinon": "^1.14.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
