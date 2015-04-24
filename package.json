@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Moking Kue",
   "main": "./lib/queue.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmedetbekov/mock-kue.git"
+  },
   "dependencies": {
     "kue": "^0.8.12"
   },
