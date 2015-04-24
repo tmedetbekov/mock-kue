@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "Moking Kue",
   "main": "move-expiration.js",
-  "dependencies": {},
+  "dependencies": {
+    "kue": "^0.8.12"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
